@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Three.js Developer ",
+      "organisation": "Systaldyn ",
+      "startDate": "April, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on  Croquet Microverse"],
+      "imageSrc": "history/systaldyn.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Systaldyn",
+      "startDate": "April, 2023",
+      "endDate": "Present",
+      "experiences": ["Worked on Reactjs & Node.js"],
+      "imageSrc": "history/systaldyn.png"
+    }
+    
+  ]
+  

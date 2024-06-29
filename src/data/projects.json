@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Videoview",
+    "imageSrc": "projects/project.png",
+    "description":  " Video Streaming Website is a web application built using React.js that allows users to watch, like and share videos.",
+    "skills": ["React", "Express", "Node", "RestAPI"],
+    "demo": "https://video-view-woad.vercel.app/",
+    "source": "https://github.com/aakanshakansal/VideoView-"
+  },
+  {
+    "title": "Datacenter in three.js",
+    "imageSrc": "projects/DataCenter.png",
+    "description":"This project aims to develop an interactive 3D visualization of a datacenter using Three.js. The visualization will allow users to explore a virtual datacenter environment.",
+    "skills": ["Three.js", "Javascript", "Node"],
+    "demo": "https://datacenter-in-three-js.vercel.app/",
+    "source": "https://github.com/aakanshakansal/Datacenter-in-three.js"
+  },
+  {
+    "title": "Haunted House in three.js",
+    "imageSrc": "projects/House.png",
+    "description":  "The project showcasing a haunted house in a spooky environment. The scene includes a brick house with a wooden door, surrounded by tombstones and eerie lighting effects to enhance the haunted atmosphere.",
+    "skills": ["Three.js", "Javascript"],
+    "demo": "https://house-rust.vercel.app/",
+    "source": "https://github.com/aakanshakansal/Haunted-House"
+  }
+]
